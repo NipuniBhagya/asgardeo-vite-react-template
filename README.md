@@ -1,4 +1,4 @@
-# Asgardeo Vite React Template
+![asgardeo-vite-react-template-banner](https://github.com/user-attachments/assets/f33ac6e4-7672-4095-838d-eb02b75d4ec6)
 
 This template enables you to create a **Vite React** application integrated with **Asgardeo** authentication, built for modern web development. It leverages **tmplr** to streamline project initialization, offering a customizable and scalable setup.
 
