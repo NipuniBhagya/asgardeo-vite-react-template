@@ -62,6 +62,9 @@ asgardeo-vite-react-template/
 
 ## Running the Recipe
 
+https://github.com/user-attachments/assets/07738582-582c-4f7c-b6bd-138b95a8dd2c
+
+
 1. To create a new Vite React application using **Asgardeo Vite React Template** run the following command.
 
 ```bash
